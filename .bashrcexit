@@ -119,5 +119,3 @@ fi
 # my custom aliases
 alias ..="cd .."
 alias sai="sudo apt install"
-alias tp="code ~/code/task-planner"
-alias cls="clear"
